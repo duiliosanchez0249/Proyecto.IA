@@ -25,7 +25,7 @@ Este asistente virtual utiliza modelos de lenguaje de gran escala (Llama 3 vía 
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Frontend:** React.js con Vite (Interfaz moderna y reactiva).
 - **Backend:** Node.js + Express (Servidor robusto).
 - **IA:** Llama 3 - 70B (Procesamiento de lenguaje natural de alta velocidad).
