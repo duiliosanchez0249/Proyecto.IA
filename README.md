@@ -11,12 +11,16 @@ Este asistente virtual utiliza modelos de lenguaje de gran escala (Llama 3 vía 
 
 | Acceso Seguro | Interacción Inicial |
 |---|---|
-| ![Login](./screenshots/login.jpeg) | ![Bienvenida](./screenshots/bienvenida.png) |
+| ![Login](<img width="538" height="417" alt="image" src="https://github.com/user-attachments/assets/e409b91b-4a91-46e4-8d28-1889e00f974a" />
+) | ![Bienvenida](<img width="819" height="719" alt="image" src="https://github.com/user-attachments/assets/1c091428-5105-45d3-ac91-a69749822692" />
+) |
 | *Interfaz de autenticación para personal médico.* | *El asistente está listo para escuchar al paciente.* |
 
 | Triaje Inteligente | Agendamiento de Citas |
 |---|---|
-| ![Triaje](./screenshots/triaje.png) | ![Cita](./screenshots/cita.png) |
+| ![Triaje](<img width="820" height="734" alt="image" src="https://github.com/user-attachments/assets/caef1f95-1030-4507-889c-e56fbab59fa7" />
+) | ![Cita](<img width="1026" height="865" alt="image" src="https://github.com/user-attachments/assets/1b450542-4268-4655-8939-e98a803203ee" />
+) |
 | *Detección de síntomas y sugerencia de especialidad.* | *Recolección de datos y selección de especialistas.* |
 
 ---
