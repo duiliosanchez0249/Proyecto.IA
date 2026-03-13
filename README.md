@@ -1,0 +1,47 @@
+# HealthFlow AI - Asistente Médico Inteligente
+
+¡Bienvenido a **HealthFlow AI**! Una solución innovadora que combina el poder de la Inteligencia Artificial con la gestión clínica para ofrecer una experiencia de atención al paciente rápida, segura y eficiente.
+
+---
+
+## Descripción del Proyecto
+Este asistente virtual utiliza modelos de lenguaje de gran escala (Llama 3 vía Groq API) para actuar como el primer punto de contacto en el **Centro Médico HealthFlow**. Su objetivo es guiar a los usuarios, realizar un triaje básico y agendar citas médicas siguiendo protocolos de seguridad estrictos.
+
+### 📸 Vista Previa del Sistema
+
+| Acceso Seguro | Interacción Inicial |
+|---|---|
+| ![Login](./screenshots/login.jpeg) | ![Bienvenida](./screenshots/bienvenida.png) |
+| *Interfaz de autenticación para personal médico.* | *El asistente está listo para escuchar al paciente.* |
+
+| Triaje Inteligente | Agendamiento de Citas |
+|---|---|
+| ![Triaje](./screenshots/triaje.png) | ![Cita](./screenshots/cita.png) |
+| *Detección de síntomas y sugerencia de especialidad.* | *Recolección de datos y selección de especialistas.* |
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+- **Frontend:** React.js con Vite (Interfaz moderna y reactiva).
+- **Backend:** Node.js + Express (Servidor robusto).
+- **IA:** Llama 3 - 70B (Procesamiento de lenguaje natural de alta velocidad).
+- **Seguridad:** Dotenv para gestión de variables de entorno y reglas de protección médica.
+
+---
+
+## Reglas de Seguridad Médica (Guardrails)
+El asistente está configurado bajo estrictos parámetros éticos:
+1. **No Medicación:** El sistema tiene prohibido sugerir fármacos o dosis.
+2. **No Diagnóstico Final:** Siempre refiere a "posibles causas" y prioriza la evaluación profesional.
+3. **Derivación Correcta:** Identifica palabras clave para enviar al paciente a Cardiología, Pediatría, Ginecología o Medicina General.
+
+---
+
+## Guía de Despliegue (Tutorial)
+
+Sigue estos pasos para ejecutar el proyecto en tu entorno local:
+
+### 1. Clonar el Repositorio
+```bash
+git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+cd Proyecto-salud
