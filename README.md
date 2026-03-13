@@ -7,7 +7,7 @@
 ## Descripción del Proyecto
 Este asistente virtual utiliza modelos de lenguaje de gran escala (Llama 3 vía Groq API) para actuar como el primer punto de contacto en el **Centro Médico HealthFlow**. Su objetivo es guiar a los usuarios, realizar un triaje básico y agendar citas médicas siguiendo protocolos de seguridad estrictos.
 
-### 📸 Vista Previa del Sistema
+### Vista Previa del Sistema
 
 | Acceso Seguro | Interacción Inicial |
 |---|---|
